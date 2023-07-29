@@ -1,6 +1,6 @@
 # Hola 👋, I'm Ankitha C!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I’m currently pursuing my Third year BTech in Computer Science from PES University, Bangalore
+I’m currently pursuing my BTech in Computer Science from PES University, Bangalore
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
