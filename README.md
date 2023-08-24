@@ -1,4 +1,4 @@
-# Hola 👋, I'm Ankitha C!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hola 👋, I'm Ankitha C!  
 
 I’m currently pursuing my BTech in Computer Science from PES University, Bangalore
 
